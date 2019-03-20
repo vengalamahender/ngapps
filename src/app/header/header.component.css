@@ -10,6 +10,9 @@
 	color: white;
 	list-style-type: none;
 }
+.rw1{
+	display: inline-block;
+}
 .rw2 {
 	float: right;
 }
