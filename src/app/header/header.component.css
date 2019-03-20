@@ -1,0 +1,32 @@
+.rw{
+    height: 3rem;
+    width: 100vw;
+    margin-left: -8px;
+    margin-top: -8px;
+    background-color: #333;
+}
+.rw ul{
+	display: inline-block;
+	color: white;
+	list-style-type: none;
+}
+.rw2 {
+	float: right;
+}
+.rw1 li a {
+	color: white;
+	text-decoration: none;
+}
+.rw1 li a:hover {
+	color: orange;
+}
+.active{
+	border-bottom:  6px solid orange;
+}
+.rw2 li a {
+	color: white;
+	text-decoration: none;
+}
+.rw2 li a:hover {
+	color: orange;
+}
